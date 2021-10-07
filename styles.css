@@ -1,0 +1,17 @@
+.next-button {
+    font-size: 24px;
+    padding-top: 1rem;
+    padding-right: 3rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+
+    background-color: #6495EC;
+    color: white;
+    border: none;
+    border-radius: 0.25rem;
+
+    background-image: url('circle-arrow.png');
+    background-size: 2rem;
+    background-position: 90% 50%;
+    background-repeat: no-repeat;
+}
